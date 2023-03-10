@@ -1,3 +1,5 @@
+![Compañia](https://www.bpmco.co/wp-content/uploads/2021/02/logo_bpm_10.png "Compañia")
+
 # Criterios de Aceptación Internos  
 
 ## Esatandares de Desarrolllo
@@ -33,5 +35,17 @@ ITIL (Information Technology Infrastructure Library) es un conjunto de mejores p
  ---
 
 ## Buenas Practicas
+La implementación de las mejores prácticas en organizaciones de diferentes sectores, trae muchos beneficios como:
+
+- Minimizan errores.
+- Facilitan el eficaz uso de recursos.
+- Ayudan a obtener mejores resultados.
+- Beneficio a la organización de los participantes del proyecto.
+- El buen uso garantiza el éxito. 
 
 
+Las buenas prácticas, son un concepto que se puede aplicar ampliamente y en diferentes gamas de industrias. En el mundo de los negocios, el término se aplica en conexión con todo, desde la gestión de proyectos hasta las funciones de auditoría o desarrollo de software. 
+
+Se ha demostrado que las mejores prácticas son la forma más eficiente de trabajar. Estas se definen de manera rígida en algunos sectores, mientras que en otros su aplicación puede ser más flexible. 
+
+Independientemente de la complejidad de las mejores prácticas, el objetivo es hacer que lo que se esté aplicando funcione mejor, más rápido y de manera eficiente con menos problemas y errores. Es por eso que siempre es una buena idea estar al tanto de cuáles son las mejores prácticas para lo que se está tratando de lograr. Es un marco para el éxito y la minimización de riesgos.
