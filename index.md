@@ -6,6 +6,8 @@
 >
 >_Fomentar un ambiente de trabajo en equipo y colaboración, lo que puede ayudar a mejorar la comunicación, la creatividad y la resolución de problemas._
 
+>_Realiza revisiones y pruebas: Realiza revisiones periódicas para garantizar que se estén cumpliendo los estándares de desarrollo. También es importante realizar pruebas para verificar la calidad y la eficacia del software._
+
 ![Buenas practicas](https://cdn.pixabay.com/photo/2015/06/24/15/45/code-820275_1280.jpg "Buenas practicas")
 
 ### ISO 9001: 
@@ -31,3 +33,5 @@ ITIL (Information Technology Infrastructure Library) es un conjunto de mejores p
  ---
 
 ## Buenas Practicas
+
+
