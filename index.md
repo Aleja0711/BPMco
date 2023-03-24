@@ -1,8 +1,9 @@
+# Criterio de Aceptación Interna
 ![Compañia](https://www.bpmco.co/wp-content/uploads/2021/02/logo_bpm_10.png "Compañia")
 
-# Criterios de Aceptación Internos
 
-## Esatandares de Desarrolllo
+## Estándares de Calidad
+_Los estandares son ciertas pautas que se adoptaron para conseguir uniformidad en el desarrollo, facilitando el mantenimiento y la actualización de los aplicativos y portales, evitando la dependencia de un desarrollador._
 
 > :bulb: **Trabajo en equipo:**
 >
@@ -12,23 +13,90 @@
 
 ![Buenas practicas](https://cdn.pixabay.com/photo/2015/06/24/15/45/code-820275_1280.jpg "Buenas practicas")
 
-### ISO 9001:
-
+### ISO 9001: 
 Es un estándar internacional de calidad que se aplica a todos los sectores y establece los requisitos para un sistema de gestión de calidad efectivo. Esto incluye la gestión de procesos, la mejora continua y la satisfacción del cliente.
-
-### ISO/IEC 12207:
-
 Este estándar describe el ciclo de vida del software y establece los procesos y actividades necesarios para desarrollar, mantener y operar el software de manera efectiva. Es una guía para la planificación, la gestión, el diseño, la implementación, la prueba y el mantenimiento del software.
 
-### Agile:
+- Identificación de la necesidad de un plan de calidad
+- Identificación de las entradas 
+- Alcance 
+- Preparación 
+- Contenido 
+- Revisión, aceptación e implementación
 
-Agile es un marco de trabajo para el desarrollo de software que se basa en la colaboración, la iteración y la retroalimentación continua. Se centra en la entrega rápida y constante de software de alta calidad y se basa en principios como la comunicación, la simplicidad y la adaptabilidad.
+### TIPO DE DATOS:
+Todo lenguaje de programación posee una definición para cada tipo de dato que permite
+identificar el atributo que soporta y el tamaño de la información que puede contener. Los datos
+mas comunes empleados por la mayoría de lenguajes de programación se denominan “Primitivos”
+estos tipos de datos son: 
 
-### ITIL:
+![Tipo de Datos](https://www.monografias.com/trabajos104/datos-y-variables-fundamentos-programacion/img14.png "Tipo de Datos")
 
-ITIL (Information Technology Infrastructure Library) es un conjunto de mejores prácticas para la gestión de servicios de TI. Proporciona un marco para la gestión de servicios de TI y se centra en la entrega de servicios de TI eficientes y efectivos.
+### METODOLOGÍA BPMN:
 
-### CMMI:
+Implementar la metodologia BPMN en cada proceso que se lleve a cabo en la empresa una modelado, automatización, ejecución, control, medición y optimización de los flujos de actividades de negocio para conseguir los objetivos de la empresa, involucrando sistemas,  empleados, clientes y socios dentro y fuera de los límites de la empresa.
+
+![BPMN](https://www.researchgate.net/profile/Marcelo-Marciszack/publication/321198409/figure/fig2/AS:563278415503361@1511307447272/Figura-3-Proceso-de-produccion-modelado-en-BPMN.png "BPMN")
+
+
+### METODOLOGÍA ÁGIL
+- **EXTREME PROGRAMMING (XP)**: Esta herramienta es muy útil sobre todo para startups o empresas que están en proceso de consolidación, puesto que su principal objetivo es ayudar en las relaciones entre los empleados y clientes. La clave del éxito del Extreme Programming XP es potenciar las relaciones personales, a través, del trabajo en equipo, fomentando la comunicación y eliminando los tiempos muertos.
+
+    - Planificación del proyecto con el cliente
+    - Diseño del proyecto
+    - Codificación, donde los programadores trabajan en pareja para obtener resultados más eficientes y de calidad
+    - Pruebas para comprobar que funcionan los códigos que se van implementando.
+    ![XP](https://eluniversodelmarketing.com/wp-content/uploads/2020/07/metodologia-xp1.png "XP")
+
+
+
+- **SCRUM**: Esta metodología permite abordar proyectos complejos que exigen una flexibilidad y una rapidez esencial a la hora de ejecutar los resultados.  La estrategia irá orientada a gestionar y normalizar los errores que se puedan producir en desarrollos demasiado largos, a través de, reuniones frecuentes para asegurar el cumplimiento de los objetivos establecidos.
+    ![SCRUM](https://hondurasdigitalchallenge.com/wp-content/uploads/2020/05/section-1-image.png "SCRUM")
+
+- **KANBAN**: muy útil para los responsables de proyectos. Esta consiste en la elaboración de un cuadro o diagrama en el que se reflejan tres columnas de tareas; pendientes, en proceso o terminadas. Este cuadro debe estar al alcance de todos los miembros del equipo, evitando así la repetición de tareas o la posibilidad de que se olvide alguna de ellas. 
+
+    - Planificación de tareas
+    - Mejora en el rendimiento de trabajo del equipo
+    - Métricas visuales
+    - Los plazos de entregas son continuos
+    ![KANBAN](https://blog.eclass.com/hubfs/shutterstock_1122554717.jpg "KANBAN")
+
+
+### TALENTOS Y RECURSOS APROPIADOS
+En este punto no sólo se refiere a tener las personas apropiadas para un cargo sino en tener los equipos apropiados, hardware moderno, plataformas de desarrollo y herramientas para pruebas para que el equipo pueda realizar sus labores sin dificultades extra. 
+![Recusos](https://c1.wallpaperflare.com/preview/810/800/1014/business-staff-head-of-human-resources-selection.jpg "Seleccion de Recursos")
+ 
+### CICLO DE VIDA DEL SOFTWARE
+Escoger el proceso de desarrollo adecuado y atenerse a este permitirá la culminación exitosa del proyecto. Metodologías para el desarrollo de software hay muchas, pero cumplir estrictamente lo que en ellas está descrito puede mejorar el desarrollo del ciclo de vida.  
+    ![CicloVida](https://alexisfreud.files.wordpress.com/2019/01/2019-01-29-3.png?w=696&h=643 "Ciclo de Vida del Software")
+
+### EVALUAR PRESUPUESTO CORRECTAMENTE 
+Esto depende mucho de los recursos, el tiempo de ciclo de vida del software y la fijación de un cronograma. Lo mejor es seguir metodologías ya probadas para realizar estimaciones. 
+
+### DEFINICIÓN DE REQUISITOS 
+Documentar las funcionalidades es la forma de obtener productos alineados con las necesidades del cliente. Si bien la teoría de casos de uso o la consideración de requerimientos funcionales y no funcionales suena aburrida, es necesario que el equipo pueda comprender estos para el diseño de la arquitectura, pruebas, etc. 
+![Definicion](https://lh4.googleusercontent.com/proxy/F4cO8Ifyg4UaRywKd5-cDBuZtwf4UqRb-046MjVIweWYZ-MhhCV5_ZGZxzEfJdtGI50KfWJ8Q7VLwtZhMNQg9f2v-Zz3XXi9NK8Kc8YHAw6626drsU6kM7l0uBocM4oPS2HWaNrzJmHP0xxsHck5jjwfiyBgM8pxlS966bhIDaPY_UQZUA=w1366-h587 "Definicion de Requisitos")
+
+### DIVIDIR LAS TAREAS EN PEQUEÑOS HITOS 
+Las tareas pequeñas van complementando un actividad o hito y son más fáciles de manejar. Es adecuado amarrar estas tareas a hitos grandes para conocer las dependencias entre estas y culminar el proyecto considerando la mayor cantidad de posibilidades. 
+ 
+### OPTIMIZACIÓN DEL DISEÑO DE LA APLICACIÓN  
+Técnicas como la reutilización del código o utilizar enfoque orientados a objetos o  módulos permite que el proyecto no se rompa. 
+
+### PRUEBAS Y VALIDACIONES 
+Estas validaciones permiten encontrar errores, detectar posibles problemas de seguridad y entender si funciona correctamente un desarrollo a implementar. Documentar los errores encontrados, el rastreo de estos tempranamente y las pruebas unitarias son estándares para el manejo de pruebas.  
+![PruebasValidaciones](https://img.freepik.com/vector-gratis/evaluacion-documentos-verificacion-aprobacion-validacion-firma-contacto-oficial-acuerdo-personaje-dibujos-animados-empresaria-maletin_335657-835.jpg?w=2000 "Pruebas y Validaciones")
+
+### DOCUMENTACIÓN 
+Esto permite a las partes interesadas conocer a fondo las funcionalidades del software desarrollado,  a realizar una trazabilidad de estas y eliminar la dependencia del equipo de desarrollo original, para que otras personas aprendan de este conocimiento o se solucionen de manera efectiva futuros inconvenientes. Se deben documentar diseños, pruebas, funcionalidades, especificaciones y documentación para usuarios. 
+
+### CONTROL DE VERSIONES 
+Muy importante para el control de las versiones de los módulos a desarrollar, inclusive en casos de reversión del código. También se puede utilizar como parte de la trazabilidad del proyecto.  
+
+### CONTROL DE CALIDAD 
+Las métricas de cumplimiento de objetivos son indicadores para conocer el estado y completitud de un proyecto. El control de fases en el ciclo de vida del proyecto, fijar métricas y establecer objetivos son fundamentales para el control de las tareas. 
+
+
 
 Capability Maturity Model Integration (CMMI) es un modelo de mejora de procesos que se utiliza para evaluar y mejorar la capacidad y madurez de los procesos de una organización. Se centra en la mejora continua y la optimización de los procesos de la organización para aumentar la eficiencia y la calidad de los productos y servicios.
 
