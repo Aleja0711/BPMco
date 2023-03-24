@@ -5,7 +5,7 @@
 ## Estándares de Calidad
 _Los estandares son ciertas pautas que se adoptaron para conseguir uniformidad en el desarrollo, facilitando el mantenimiento y la actualización de los aplicativos y portales, evitando la dependencia de un desarrollador._
 
-> :bulb: **Trabajo en equipo:**
+> :busts_in_silhouette: **Trabajo en equipo:**
 >
 > _Fomentar un ambiente de trabajo en equipo y colaboración, lo que puede ayudar a mejorar la comunicación, la creatividad y la resolución de problemas._
 
