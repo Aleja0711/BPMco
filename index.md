@@ -50,7 +50,7 @@ Se ha demostrado que las mejores prácticas son la forma más eficiente de traba
 
 Independientemente de la complejidad de las mejores prácticas, el objetivo es hacer que lo que se esté aplicando funcione mejor, más rápido y de manera eficiente con menos problemas y errores. Es por eso que siempre es una buena idea estar al tanto de cuáles son las mejores prácticas para lo que se está tratando de lograr. Es un marco para el éxito y la minimización de riesgos.
 
-### Código
+### :computer: Código
 
 | Item | Buena Practica                                                                                                                                                                                                                                                                  | Ejemplo Buena Practica                                                          | Ejemplo Mala Practica                                                         |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -63,7 +63,7 @@ Independientemente de la complejidad de las mejores prácticas, el objetivo es h
 | 7    | Cuando se usan condicionales if/else es una buena practica que el código a ejecutar en el else tenga el mismo formato que en el if y viceversa.                                                                                                                                 | ![Ejemplo buenas practicas](images/ejemplo_bp_7.png "Ejemplo buenas practicas") | ![Ejemplo malas practicas](images/ejemplo_mp_7.png "Ejemplo malas practicas") |
 | 8    | Es una buena mantener la misma estructura que ya se esta manejando dentro de un código que ya se encuentra escrito, por ejemplo cuando se usan comillas simples y comillas dobles en Javascript.                                                                                | ![Ejemplo buenas practicas](images/ejemplo_bp_8.png "Ejemplo buenas practicas") | ![Ejemplo malas practicas](images/ejemplo_mp_8.png "Ejemplo malas practicas") |
 
-### Bases de Datos
+### :ledger: Bases de Datos
 
 | Item | Buena Practica                                                                                                 | Ejemplo Buena Practica                                                             | Ejemplo Mala Practica                                                            |
 | ---- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
